@@ -178,44 +178,7 @@ The main objective is to develop a secure and user-friendly web portal that brid
 * **Application Handling**: Students apply/withdraw, companies view/manage applications.  
 * **Profile and Skills:** Users update their profiles and skills for better matching.
 
-
-6. ## **Screenshots**
-
-   
-
-   ![][image2]
-
-* \- Login Page (login.php)
-
-![][image3]
-
-* \- Student Dashboard (student/dashboard.php)
-
-![][image4]
-
-* \- Company Dashboard (company/dashboard.php)
-
-![][image5]
-
-* \- Admin Dashboard (admin/dashboard.php)
-
-![][image6]
-
-* \- Internship Listing (internship.php)
-
-![][image7]
-
-* \- Application Form (student/dashboard.php or company/view-ac-applications.php)
-
-![][image8]![][image9]
-
-* \- Profile Page (student/profile.php, company/profile.php)
-
-![][image10]![][image11]
-
-* \- Registration Page (register.php)
-
-![][image12]
+Watch the video or check the pdf report for details
 
 7. **Future Enhancements**                                                                                                                                                                             
 * Payment integration for premium job listings
