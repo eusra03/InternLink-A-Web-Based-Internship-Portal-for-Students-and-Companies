@@ -1,33 +1,3 @@
-![][image1]
-
-**DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING**
-
-**PROJECT REPORT**
-
-**Group-12**
-
-**Submitted by:**
-
-**Name**: Eusra Amreen
-
-**Id**: 2321505642
-
-Email :[eusra.amreen.232@northsouth.edu](mailto:eusra.amreen.232@northsouth.edu)
-
-**Name**: Shahriar Rakib Rabbi
-
-**Id**: 2321937642
-
-Email: [shahriar.rabbi.232@northsouth.edu](mailto:shahriar.rabbi.232@northsouth.edu)
-
-**Course**: CSE 311
-
-**Section**: 03
-
-**Submitted to:**
-
-Tushar Basak
-
 # InternLink
 
 ## **A Web-Based Internship Portal for Students and Companies**
